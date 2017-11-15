@@ -1,0 +1,1265 @@
+/heroes/abaddon
+str: 23 +2.6
+agi: 17 +1.5
+int: 21 +2.0
+Movement speed: 310
+Sight range: 1800^800
+Armor: 1.38
+Base attack time: 1.7
+Damage: 55 - 65
+Attack point: 0.56
+
+/heroes/alchemist
+str: 25 +2.1
+agi: 16 +1.2
+int: 25 +1.8
+Movement speed: 295
+Sight range: 1800^800
+Armor: 2.24
+Base attack time: 1.7
+Damage: 49 - 58
+Attack point: 0.35
+
+/heroes/ancient-apparition
+str: 18 +1.7
+agi: 20 +2.2
+int: 25 +2.6
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.8
+Base attack time: 1.7
+Damage: 44 - 54
+Attack point: 0.45
+
+/heroes/anti-mage
+str: 22 +1.3
+agi: 22 +2.8
+int: 12 +1.8
+Movement speed: 310
+Sight range: 1800^800
+Armor: 2.08
+Base attack time: 1.45
+Damage: 49 - 53
+Attack point: 0.3
+
+/heroes/arc-warden
+str: 24 +3.0
+agi: 15 +1.8
+int: 24 +2.6
+Movement speed: 280
+Sight range: 1800^800
+Armor: 0.1
+Base attack time: 1.7
+Damage: 44 - 54
+Attack point: 0.3
+
+/heroes/axe
+str: 25 +2.8
+agi: 20 +2.2
+int: 18 +1.6
+Movement speed: 290
+Sight range: 1800^800
+Armor: 1.8
+Base attack time: 1.7
+Damage: 49 - 53
+Attack point: 0.5
+
+/heroes/bane
+str: 23 +2.4
+agi: 23 +2.4
+int: 23 +2.4
+Movement speed: 310
+Sight range: 1800^800
+Armor: 4.22
+Base attack time: 1.7
+Damage: 60 - 66
+Attack point: 0.3
+
+/heroes/batrider
+str: 23 +2.7
+agi: 15 +1.5
+int: 24 +2.5
+Movement speed: 290
+Sight range: 1200^800
+Armor: 2.1
+Base attack time: 1.7
+Damage: 38 - 42
+Attack point: 0.3
+
+/heroes/beastmaster
+str: 23 +2.5
+agi: 18 +1.6
+int: 16 +1.9
+Movement speed: 310
+Sight range: 1800^800
+Armor: 4.52
+Base attack time: 1.7
+Damage: 64 - 68
+Attack point: 0.3
+
+/heroes/bloodseeker
+str: 23 +2.7
+agi: 24 +3.0
+int: 18 +1.7
+Movement speed: 285
+Sight range: 1800^800
+Armor: 3.36
+Base attack time: 1.7
+Damage: 57 - 63
+Attack point: 0.43
+
+/heroes/bounty-hunter
+str: 17 +2.1
+agi: 21 +3.0
+int: 19 +2.0
+Movement speed: 315
+Sight range: 1800^1000
+Armor: 5.94
+Base attack time: 1.7
+Damage: 45 - 59
+Attack point: 0.59
+
+/heroes/brewmaster
+str: 23 +3.2
+agi: 22 +1.95
+int: 14 +1.25
+Movement speed: 300
+Sight range: 1800^800
+Armor: 2.08
+Base attack time: 1.7
+Damage: 52 - 59
+Attack point: 0.35
+
+/heroes/bristleback
+str: 22 +2.2
+agi: 17 +1.8
+int: 14 +2.8
+Movement speed: 290
+Sight range: 1800^800
+Armor: 3.38
+Base attack time: 1.8
+Damage: 44 - 54
+Attack point: 0.3
+
+/heroes/broodmother
+str: 17 +2.8
+agi: 18 +2.2
+int: 18 +2.0
+Movement speed: 270
+Sight range: 1800^800
+Armor: 2.52
+Base attack time: 1.7
+Damage: 44 - 50
+Attack point: 0.4
+
+/heroes/centaur-warrunner
+str: 23 +4.3
+agi: 15 +1.6
+int: 15 +1.6
+Movement speed: 300
+Sight range: 1800^800
+Armor: 2.1
+Base attack time: 1.7
+Damage: 55 - 57
+Attack point: 0.3
+
+/heroes/chaos-knight
+str: 22 +3.2
+agi: 14 +2.1
+int: 16 +1.2
+Movement speed: 325
+Sight range: 1800^800
+Armor: 3.96
+Base attack time: 1.7
+Damage: 51 - 81
+Attack point: 0.5
+
+/heroes/chen
+str: 23 +1.8
+agi: 15 +2.1
+int: 21 +2.8
+Movement speed: 300
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.7
+Damage: 43 - 53
+Attack point: 0.5
+
+/heroes/clinkz
+str: 15 +1.9
+agi: 22 +2.6
+int: 16 +1.55
+Movement speed: 295
+Sight range: 1800^800
+Armor: 2.08
+Base attack time: 1.7
+Damage: 37 - 43
+Attack point: 0.7
+
+/heroes/clockwerk
+str: 26 +3.2
+agi: 13 +2.3
+int: 17 +1.3
+Movement speed: 315
+Sight range: 1800^800
+Armor: 1.82
+Base attack time: 1.7
+Damage: 54 - 56
+Attack point: 0.33
+
+/heroes/crystal-maiden
+str: 16 +2.0
+agi: 16 +1.6
+int: 16 +2.9
+Movement speed: 275
+Sight range: 1800^800
+Armor: 1.24
+Base attack time: 1.7
+Damage: 35 - 41
+Attack point: 0.55
+
+/heroes/dark-seer
+str: 22 +2.6
+agi: 12 +1.2
+int: 23 +2.7
+Movement speed: 295
+Sight range: 1800^800
+Armor: 6.68
+Base attack time: 1.7
+Damage: 54 - 60
+Attack point: 0.59
+
+/heroes/dark-willow
+str: 18 +1.8
+agi: 18 +1.6
+int: 20 +3.0
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.52
+Base attack time: 1.3
+Damage: 45 - 53
+Attack point: 0.3
+
+/heroes/dazzle
+str: 16 +2.15
+agi: 21 +1.7
+int: 27 +3.4
+Movement speed: 305
+Sight range: 1800^800
+Armor: 1.94
+Base attack time: 1.7
+Damage: 41 - 59
+Attack point: 0.3
+
+/heroes/death-prophet
+str: 17 +2.6
+agi: 14 +1.4
+int: 23 +3.0
+Movement speed: 310
+Sight range: 1800^800
+Armor: 2.96
+Base attack time: 1.7
+Damage: 47 - 59
+Attack point: 0.56
+
+/heroes/disruptor
+str: 19 +2.2
+agi: 15 +1.4
+int: 22 +2.5
+Movement speed: 300
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.7
+Damage: 49 - 53
+Attack point: 0.4
+
+/heroes/doom
+str: 26 +3.5
+agi: 11 +0.9
+int: 13 +2.1
+Movement speed: 290
+Sight range: 1800^800
+Armor: 0.54
+Base attack time: 2.0
+Damage: 53 - 69
+Attack point: 0.5
+
+/heroes/dragon-knight
+str: 19 +3.1
+agi: 19 +2.2
+int: 15 +1.7
+Movement speed: 290
+Sight range: 1800^800
+Armor: 3.66
+Base attack time: 1.7
+Damage: 50 - 56
+Attack point: 0.5
+
+/heroes/drow-ranger
+str: 17 +1.9
+agi: 26 +1.9
+int: 15 +1.4
+Movement speed: 285
+Sight range: 1800^800
+Armor: 0.64
+Base attack time: 1.7
+Damage: 40 - 51
+Attack point: 0.7
+
+/heroes/earth-spirit
+str: 21 +3.2
+agi: 17 +1.5
+int: 18 +2.1
+Movement speed: 290
+Sight range: 1800^800
+Armor: 3.38
+Base attack time: 1.7
+Damage: 46 - 56
+Attack point: 0.35
+
+/heroes/earthshaker
+str: 22 +3.2
+agi: 12 +1.4
+int: 16 +1.8
+Movement speed: 310
+Sight range: 1800^800
+Armor: 2.68
+Base attack time: 1.7
+Damage: 46 - 56
+Attack point: 0.467
+
+/heroes/elder-titan
+str: 24 +2.6
+agi: 14 +1.8
+int: 23 +1.6
+Movement speed: 315
+Sight range: 1800^800
+Armor: 2.96
+Base attack time: 1.7
+Damage: 47 - 57
+Attack point: 0.35
+
+/heroes/ember-spirit
+str: 19 +2.1
+agi: 22 +1.8
+int: 20 +1.8
+Movement speed: 305
+Sight range: 1800^800
+Armor: 1.08
+Base attack time: 1.7
+Damage: 52 - 56
+Attack point: 0.4
+
+/heroes/enchantress
+str: 16 +1.3
+agi: 19 +1.8
+int: 21 +3.1
+Movement speed: 340
+Sight range: 1800^800
+Armor: 0.66
+Base attack time: 1.7
+Damage: 52 - 62
+Attack point: 0.3
+
+/heroes/enigma
+str: 17 +2.4
+agi: 14 +1.0
+int: 20 +3.4
+Movement speed: 300
+Sight range: 1800^800
+Armor: 3.96
+Base attack time: 1.7
+Damage: 42 - 48
+Attack point: 0.4
+
+/heroes/faceless-void
+str: 23 +2.1
+agi: 23 +2.8
+int: 15 +1.5
+Movement speed: 295
+Sight range: 1800^800
+Armor: 3.22
+Base attack time: 1.7
+Damage: 56 - 62
+Attack point: 0.5
+
+/heroes/gyrocopter
+str: 18 +2.1
+agi: 24 +2.8
+int: 19 +2.1
+Movement speed: 320
+Sight range: 1800^800
+Armor: 4.36
+Base attack time: 1.7
+Damage: 37 - 47
+Attack point: 0.2
+
+/heroes/huskar
+str: 21 +2.7
+agi: 15 +1.4
+int: 18 +1.5
+Movement speed: 300
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.6
+Damage: 42 - 51
+Attack point: 0.4
+
+/heroes/invoker
+str: 16 +2.2
+agi: 14 +1.9
+int: 16 +4.0
+Movement speed: 280
+Sight range: 1800^800
+Armor: 0.96
+Base attack time: 1.7
+Damage: 35 - 41
+Attack point: 0.4
+
+/heroes/io
+str: 17 +2.2
+agi: 14 +1.6
+int: 23 +1.7
+Movement speed: 295
+Sight range: 1800^800
+Armor: -0.04
+Base attack time: 1.7
+Damage: 43 - 52
+Attack point: 0.15
+
+/heroes/jakiro
+str: 25 +2.6
+agi: 10 +1.2
+int: 28 +2.8
+Movement speed: 290
+Sight range: 1800^800
+Armor: 2.4
+Base attack time: 1.7
+Damage: 53 - 61
+Attack point: 0.4
+
+/heroes/juggernaut
+str: 20 +2.2
+agi: 26 +2.4
+int: 14 +1.4
+Movement speed: 295
+Sight range: 1800^800
+Armor: 3.64
+Base attack time: 1.4
+Damage: 48 - 52
+Attack point: 0.33
+
+/heroes/keeper-of-the-light
+str: 14 +2.1
+agi: 15 +1.6
+int: 25 +2.8
+Movement speed: 335
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.7
+Damage: 43 - 50
+Attack point: 0.3
+
+/heroes/kunkka
+str: 24 +3.3
+agi: 14 +1.3
+int: 18 +1.5
+Movement speed: 300
+Sight range: 1800^800
+Armor: 3.96
+Base attack time: 1.7
+Damage: 50 - 60
+Attack point: 0.4
+
+/heroes/legion-commander
+str: 26 +2.9
+agi: 18 +1.7
+int: 20 +2.2
+Movement speed: 320
+Sight range: 1800^800
+Armor: 2.52
+Base attack time: 1.7
+Damage: 61 - 65
+Attack point: 0.46
+
+/heroes/leshrac
+str: 16 +1.8
+agi: 23 +1.7
+int: 26 +3.0
+Movement speed: 325
+Sight range: 1800^800
+Armor: 3.22
+Base attack time: 1.7
+Damage: 41 - 45
+Attack point: 0.4
+
+/heroes/lich
+str: 18 +1.85
+agi: 15 +2.0
+int: 18 +3.25
+Movement speed: 315
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.7
+Damage: 42 - 51
+Attack point: 0.46
+
+/heroes/lifestealer
+str: 25 +3.1
+agi: 18 +1.9
+int: 15 +1.75
+Movement speed: 315
+Sight range: 1800^800
+Armor: 1.52
+Base attack time: 1.85
+Damage: 52 - 62
+Attack point: 0.39
+
+/heroes/lina
+str: 18 +1.8
+agi: 16 +1.5
+int: 27 +3.2
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.24
+Base attack time: 1.6
+Damage: 40 - 58
+Attack point: 0.75
+
+/heroes/lion
+str: 16 +2.0
+agi: 15 +1.5
+int: 20 +3.0
+Movement speed: 290
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.7
+Damage: 47 - 53
+Attack point: 0.43
+
+/heroes/lone-druid
+str: 17 +2.4
+agi: 24 +2.7
+int: 13 +1.4
+Movement speed: 320
+Sight range: 1800^800
+Armor: 3.36
+Base attack time: 1.7
+Damage: 42 - 46
+Attack point: 0.33
+
+/heroes/luna
+str: 15 +2.5
+agi: 18 +3.3
+int: 16 +1.85
+Movement speed: 330
+Sight range: 1800^800
+Armor: 2.52
+Base attack time: 1.7
+Damage: 38 - 44
+Attack point: 0.46
+
+/heroes/lycan
+str: 25 +3.3
+agi: 16 +1.0
+int: 17 +1.55
+Movement speed: 305
+Sight range: 1800^800
+Armor: 3.24
+Base attack time: 1.7
+Damage: 61 - 66
+Attack point: 0.55
+
+/heroes/magnus
+str: 21 +3.2
+agi: 15 +2.5
+int: 19 +1.65
+Movement speed: 310
+Sight range: 1800^800
+Armor: 4.1
+Base attack time: 1.8
+Damage: 53 - 65
+Attack point: 0.5
+
+/heroes/medusa
+str: 14 +1.5
+agi: 20 +2.5
+int: 19 +2.1
+Movement speed: 285
+Sight range: 1800^800
+Armor: 1.8
+Base attack time: 1.7
+Damage: 44 - 50
+Attack point: 0.5
+
+/heroes/meepo
+str: 23 +1.6
+agi: 23 +2.2
+int: 20 +1.6
+Movement speed: 310
+Sight range: 1800^800
+Armor: 2.22
+Base attack time: 1.7
+Damage: 43 - 49
+Attack point: 0.38
+
+/heroes/mirana
+str: 17 +2.15
+agi: 18 +3.2
+int: 17 +1.65
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.52
+Base attack time: 1.7
+Damage: 39 - 50
+Attack point: 0.3
+
+/heroes/monkey-king
+str: 18 +2.8
+agi: 22 +3.2
+int: 20 +1.8
+Movement speed: 300
+Sight range: 1800^800
+Armor: 0.08
+Base attack time: 1.7
+Damage: 49 - 55
+Attack point: 0.45
+
+/heroes/morphling
+str: 19 +2.3
+agi: 24 +3.7
+int: 13 +1.1
+Movement speed: 280
+Sight range: 1800^800
+Armor: 1.36
+Base attack time: 1.5
+Damage: 33 - 42
+Attack point: 0.5
+
+/heroes/naga-siren
+str: 21 +2.8
+agi: 21 +2.75
+int: 21 +2.0
+Movement speed: 315
+Sight range: 1800^800
+Armor: 5.94
+Base attack time: 1.7
+Damage: 44 - 46
+Attack point: 0.5
+
+/heroes/natures-prophet
+str: 19 +2.1
+agi: 18 +1.9
+int: 25 +2.9
+Movement speed: 290
+Sight range: 1800^800
+Armor: 3.52
+Base attack time: 1.7
+Damage: 55 - 69
+Attack point: 0.4
+
+/heroes/necrophos
+str: 16 +2.3
+agi: 15 +1.2
+int: 22 +2.5
+Movement speed: 285
+Sight range: 1800^800
+Armor: 3.1
+Base attack time: 1.7
+Damage: 44 - 48
+Attack point: 0.53
+
+/heroes/night-stalker
+str: 23 +3.1
+agi: 18 +2.25
+int: 13 +1.6
+Movement speed: 295
+Sight range: 800^1800
+Armor: 5.52
+Base attack time: 1.7
+Damage: 61 - 65
+Attack point: 0.55
+
+/heroes/nyx-assassin
+str: 18 +2.3
+agi: 19 +2.2
+int: 18 +2.1
+Movement speed: 295
+Sight range: 1800^800
+Armor: 3.66
+Base attack time: 1.7
+Damage: 46 - 50
+Attack point: 0.46
+
+/heroes/ogre-magi
+str: 23 +3.5
+agi: 14 +1.55
+int: 17 +2.0
+Movement speed: 285
+Sight range: 1800^800
+Armor: 7.96
+Base attack time: 1.7
+Damage: 58 - 64
+Attack point: 0.3
+
+/heroes/omniknight
+str: 22 +3.1
+agi: 15 +1.75
+int: 17 +1.8
+Movement speed: 305
+Sight range: 1800^800
+Armor: 5.1
+Base attack time: 1.7
+Damage: 53 - 63
+Attack point: 0.433
+
+/heroes/oracle
+str: 18 +2.2
+agi: 15 +1.7
+int: 23 +2.9
+Movement speed: 305
+Sight range: 1800^800
+Armor: 2.1
+Base attack time: 1.4
+Damage: 39 - 45
+Attack point: 0.3
+
+/heroes/outworld-devourer
+str: 19 +2.6
+agi: 24 +2.0
+int: 26 +2.7
+Movement speed: 315
+Sight range: 1800^800
+Armor: 3.86
+Base attack time: 1.7
+Damage: 40 - 55
+Attack point: 0.46
+
+/heroes/pangolier
+str: 16 +2.5
+agi: 18 +2.8
+int: 16 +1.9
+Movement speed: 305
+Sight range: 1800^800
+Armor: 3.52
+Base attack time: 1.7
+Damage: 47 - 53
+Attack point: 0.33
+
+/heroes/phantom-assassin
+str: 20 +2.15
+agi: 23 +3.15
+int: 15 +1.4
+Movement speed: 305
+Sight range: 1800^800
+Armor: 4.22
+Base attack time: 1.7
+Damage: 46 - 48
+Attack point: 0.3
+
+/heroes/phantom-lancer
+str: 21 +2.0
+agi: 29 +2.8
+int: 21 +2.0
+Movement speed: 285
+Sight range: 1800^800
+Armor: 4.06
+Base attack time: 1.7
+Damage: 51 - 73
+Attack point: 0.5
+
+/heroes/phoenix
+str: 19 +3.2
+agi: 12 +1.3
+int: 18 +1.8
+Movement speed: 285
+Sight range: 1800^800
+Armor: -0.32
+Base attack time: 1.7
+Damage: 45 - 55
+Attack point: 0.35
+
+/heroes/puck
+str: 15 +2.0
+agi: 22 +1.7
+int: 25 +2.4
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.08
+Base attack time: 1.7
+Damage: 53 - 64
+Attack point: 0.5
+
+/heroes/pudge
+str: 25 +3.5
+agi: 14 +1.5
+int: 14 +1.5
+Movement speed: 280
+Sight range: 1800^800
+Armor: 0.96
+Base attack time: 1.7
+Damage: 52 - 58
+Attack point: 0.5
+
+/heroes/pugna
+str: 17 +1.5
+agi: 16 +1.0
+int: 26 +4.5
+Movement speed: 335
+Sight range: 1800^800
+Armor: 1.24
+Base attack time: 1.7
+Damage: 45 - 53
+Attack point: 0.5
+
+/heroes/queen-of-pain
+str: 16 +2.0
+agi: 18 +2.0
+int: 24 +2.5
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.52
+Base attack time: 1.5
+Damage: 45 - 53
+Attack point: 0.56
+
+/heroes/razor
+str: 21 +2.6
+agi: 22 +1.8
+int: 21 +1.8
+Movement speed: 285
+Sight range: 1800^800
+Armor: 2.08
+Base attack time: 1.7
+Damage: 45 - 47
+Attack point: 0.3
+
+/heroes/riki
+str: 17 +1.9
+agi: 30 +2.2
+int: 14 +1.3
+Movement speed: 275
+Sight range: 1800^800
+Armor: 4.2
+Base attack time: 1.7
+Damage: 34 - 38
+Attack point: 0.3
+
+/heroes/rubick
+str: 19 +1.8
+agi: 14 +1.6
+int: 27 +2.4
+Movement speed: 290
+Sight range: 1800^800
+Armor: 0.96
+Base attack time: 1.7
+Damage: 44 - 54
+Attack point: 0.4
+
+/heroes/sand-king
+str: 22 +2.9
+agi: 19 +2.1
+int: 16 +1.8
+Movement speed: 295
+Sight range: 1800^800
+Armor: 2.66
+Base attack time: 1.7
+Damage: 47 - 63
+Attack point: 0.53
+
+/heroes/shadow-demon
+str: 21 +2.2
+agi: 18 +2.2
+int: 23 +2.7
+Movement speed: 295
+Sight range: 1800^800
+Armor: 2.52
+Base attack time: 1.7
+Damage: 50 - 54
+Attack point: 0.35
+
+/heroes/shadow-fiend
+str: 15 +2.3
+agi: 20 +2.9
+int: 18 +2.0
+Movement speed: 310
+Sight range: 1800^800
+Armor: 0.8
+Base attack time: 1.7
+Damage: 35 - 41
+Attack point: 0.5
+
+/heroes/shadow-shaman
+str: 21 +2.1
+agi: 16 +1.6
+int: 21 +3.0
+Movement speed: 285
+Sight range: 1800^800
+Armor: 2.24
+Base attack time: 1.7
+Damage: 71 - 78
+Attack point: 0.3
+
+/heroes/silencer
+str: 17 +2.5
+agi: 22 +3.0
+int: 27 +2.5
+Movement speed: 295
+Sight range: 1800^800
+Armor: 2.08
+Base attack time: 1.7
+Damage: 43 - 57
+Attack point: 0.5
+
+/heroes/skywrath-mage
+str: 19 +1.8
+agi: 13 +0.8
+int: 27 +3.6
+Movement speed: 330
+Sight range: 1800^800
+Armor: -0.18
+Base attack time: 1.7
+Damage: 39 - 49
+Attack point: 0.4
+
+/heroes/slardar
+str: 21 +3.1
+agi: 17 +2.4
+int: 15 +1.5
+Movement speed: 290
+Sight range: 1800^800
+Armor: 5.38
+Base attack time: 1.7
+Damage: 51 - 59
+Attack point: 0.36
+
+/heroes/slark
+str: 20 +1.9
+agi: 21 +1.5
+int: 16 +1.7
+Movement speed: 295
+Sight range: 1800^1800
+Armor: 1.94
+Base attack time: 1.7
+Damage: 54 - 62
+Attack point: 0.5
+
+/heroes/sniper
+str: 16 +2.0
+agi: 21 +2.7
+int: 15 +2.6
+Movement speed: 285
+Sight range: 1800^1100
+Armor: 1.94
+Base attack time: 1.7
+Damage: 36 - 42
+Attack point: 0.17
+
+/heroes/spectre
+str: 20 +2.3
+agi: 23 +1.8
+int: 16 +1.9
+Movement speed: 285
+Sight range: 1800^800
+Armor: 3.22
+Base attack time: 1.7
+Damage: 46 - 50
+Attack point: 0.3
+
+/heroes/spirit-breaker
+str: 29 +2.7
+agi: 17 +1.7
+int: 14 +1.8
+Movement speed: 285
+Sight range: 1800^800
+Armor: 5.38
+Base attack time: 1.9
+Damage: 60 - 70
+Attack point: 0.6
+
+/heroes/storm-spirit
+str: 19 +1.8
+agi: 22 +1.8
+int: 24 +3.0
+Movement speed: 285
+Sight range: 1800^800
+Armor: 5.08
+Base attack time: 1.7
+Damage: 46 - 56
+Attack point: 0.5
+
+/heroes/sven
+str: 23 +3.0
+agi: 21 +2.0
+int: 16 +1.3
+Movement speed: 290
+Sight range: 1800^800
+Armor: 4.94
+Base attack time: 1.8
+Damage: 64 - 66
+Attack point: 0.4
+
+/heroes/techies
+str: 17 +2.3
+agi: 14 +1.3
+int: 22 +2.9
+Movement speed: 270
+Sight range: 1800^800
+Armor: 6.96
+Base attack time: 1.7
+Damage: 29 - 31
+Attack point: 0.5
+
+/heroes/templar-assassin
+str: 18 +2.4
+agi: 23 +2.3
+int: 20 +2.0
+Movement speed: 300
+Sight range: 1800^800
+Armor: 4.22
+Base attack time: 1.7
+Damage: 53 - 59
+Attack point: 0.3
+
+/heroes/terrorblade
+str: 15 +1.7
+agi: 22 +3.2
+int: 19 +1.75
+Movement speed: 310
+Sight range: 1800^800
+Armor: 10.08
+Base attack time: 1.5
+Damage: 48 - 54
+Attack point: 0.3
+
+/heroes/tidehunter
+str: 22 +3.3
+agi: 15 +1.5
+int: 16 +1.7
+Movement speed: 305
+Sight range: 1800^800
+Armor: 3.1
+Base attack time: 1.7
+Damage: 47 - 53
+Attack point: 0.6
+
+/heroes/timbersaw
+str: 21 +2.1
+agi: 16 +1.3
+int: 21 +2.4
+Movement speed: 290
+Sight range: 1800^800
+Armor: 0.24
+Base attack time: 1.7
+Damage: 47 - 51
+Attack point: 0.36
+
+/heroes/tinker
+str: 17 +2.3
+agi: 13 +1.2
+int: 30 +2.2
+Movement speed: 305
+Sight range: 1800^800
+Armor: 3.82
+Base attack time: 1.7
+Damage: 52 - 58
+Attack point: 0.35
+
+/heroes/tiny
+str: 30 +3.3
+agi: 0 +0.0
+int: 17 +1.6
+Movement speed: 285
+Sight range: 1800^800
+Armor: 0.0
+Base attack time: 1.7
+Damage: 74 - 80
+Attack point: 0.4
+
+/heroes/treant-protector
+str: 25 +3.6
+agi: 15 +2.0
+int: 17 +1.8
+Movement speed: 270
+Sight range: 1800^800
+Armor: 1.1
+Base attack time: 1.9
+Damage: 87 - 95
+Attack point: 0.6
+
+/heroes/troll-warlord
+str: 20 +2.5
+agi: 21 +2.5
+int: 13 +1.0
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.94
+Base attack time: 1.7
+Damage: 38 - 56
+Attack point: 0.3
+
+/heroes/tusk
+str: 23 +2.6
+agi: 23 +2.1
+int: 18 +1.7
+Movement speed: 300
+Sight range: 1800^800
+Armor: 3.22
+Base attack time: 1.7
+Damage: 50 - 54
+Attack point: 0.36
+
+/heroes/underlord
+str: 25 +2.9
+agi: 12 +1.3
+int: 17 +2.6
+Movement speed: 290
+Sight range: 1800^800
+Armor: 3.68
+Base attack time: 1.7
+Damage: 62 - 68
+Attack point: 0.45
+
+/heroes/undying
+str: 22 +2.4
+agi: 10 +0.8
+int: 27 +2.8
+Movement speed: 310
+Sight range: 1800^800
+Armor: 4.4
+Base attack time: 1.7
+Damage: 57 - 65
+Attack point: 0.3
+
+/heroes/ursa
+str: 23 +3.0
+agi: 18 +2.1
+int: 16 +1.5
+Movement speed: 305
+Sight range: 1800^800
+Armor: 5.52
+Base attack time: 1.7
+Damage: 42 - 46
+Attack point: 0.3
+
+/heroes/vengeful-spirit
+str: 18 +2.9
+agi: 27 +3.3
+int: 13 +1.5
+Movement speed: 295
+Sight range: 1800^800
+Armor: 3.78
+Base attack time: 1.7
+Damage: 39 - 47
+Attack point: 0.33
+
+/heroes/venomancer
+str: 18 +1.9
+agi: 22 +2.8
+int: 17 +1.8
+Movement speed: 275
+Sight range: 1800^800
+Armor: 3.08
+Base attack time: 1.7
+Damage: 38 - 40
+Attack point: 0.3
+
+/heroes/viper
+str: 20 +2.4
+agi: 21 +2.9
+int: 15 +1.8
+Movement speed: 275
+Sight range: 1800^800
+Armor: 0.94
+Base attack time: 1.7
+Damage: 44 - 46
+Attack point: 0.33
+
+/heroes/visage
+str: 22 +2.7
+agi: 11 +1.3
+int: 24 +2.5
+Movement speed: 285
+Sight range: 1800^800
+Armor: -0.46
+Base attack time: 1.7
+Damage: 45 - 55
+Attack point: 0.46
+
+/heroes/warlock
+str: 22 +2.8
+agi: 10 +1.0
+int: 24 +2.7
+Movement speed: 295
+Sight range: 1800^800
+Armor: 2.4
+Base attack time: 1.7
+Damage: 46 - 56
+Attack point: 0.3
+
+/heroes/weaver
+str: 15 +1.8
+agi: 14 +2.8
+int: 15 +1.8
+Movement speed: 280
+Sight range: 1800^800
+Armor: 0.96
+Base attack time: 1.8
+Damage: 50 - 60
+Attack point: 0.64
+
+/heroes/windranger
+str: 15 +2.8
+agi: 17 +1.4
+int: 22 +2.6
+Movement speed: 295
+Sight range: 1800^800
+Armor: 1.38
+Base attack time: 1.5
+Damage: 44 - 56
+Attack point: 0.4
+
+/heroes/winter-wyvern
+str: 24 +2.4
+agi: 16 +1.9
+int: 25 +3.1
+Movement speed: 285
+Sight range: 1800^800
+Armor: 1.24
+Base attack time: 1.7
+Damage: 38 - 45
+Attack point: 0.25
+
+/heroes/witch-doctor
+str: 16 +2.1
+agi: 13 +1.4
+int: 24 +2.9
+Movement speed: 305
+Sight range: 1800^800
+Armor: 0.82
+Base attack time: 1.7
+Damage: 51 - 61
+Attack point: 0.4
+
+/heroes/wraith-king
+str: 22 +2.8
+agi: 18 +1.7
+int: 18 +1.6
+Movement speed: 300
+Sight range: 1800^800
+Armor: 2.52
+Base attack time: 1.7
+Damage: 61 - 63
+Attack point: 0.56
+
+/heroes/zeus
+str: 19 +2.6
+agi: 11 +1.2
+int: 22 +2.7
+Movement speed: 300
+Sight range: 1800^800
+Armor: 1.54
+Base attack time: 1.7
+Damage: 43 - 51
+Attack point: 0.633
+
