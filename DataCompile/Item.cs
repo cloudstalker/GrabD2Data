@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
-using System.Dynamic;
+
 
 namespace DataCompile
 {
-    public class Item:DynamicObject
+    public class Item
     {
-        // The inner dictionary.
-        Dictionary<string, object> dictionary = new Dictionary<string, object>();
         /// <summary>
         /// Properties
         /// </summary>
@@ -37,16 +35,5 @@ namespace DataCompile
         public string MagicResistance { get; set; }
         public string SpellAmplification { get; set; }
         public string ManacostandManalossReduction { get; set; }
-
-        public override bool TrySetMember(SetMemberBinder binder, object value)
-        {
-            // Converting the property name to lowercase
-            // so that property names become case-insensitive.
-            dictionary[binder.Name] = value;
-
-            // You can always add a value to a dictionary,
-            // so this method always returns true.
-            return true;
-        }
     }
 }

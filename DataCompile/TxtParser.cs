@@ -91,7 +91,7 @@ namespace DataCompile
                         string value = line.Remove(i);
                         string propertyName = line.Substring(i).Replace(" ", string.Empty);
                         properties.Add(propertyName);
-                        temp.TrySetMember( );
+                        typeof(Item).GetProperty(propertyName).SetValue(temp, value);
                         result.Add(temp);
                     }
                 }

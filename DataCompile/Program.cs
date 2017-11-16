@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using System.Data.SQLite;
 using System.Data.SQLite.EF6;
 using System.Data.Entity;
-using System.Dynamic;
 
 namespace DataCompile
 {
