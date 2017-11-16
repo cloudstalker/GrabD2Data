@@ -286,13 +286,6 @@
 2,120
 + 30 Damage
 
-/items/observer-and-sentry-wards
-180
-OBSERVER VISION RANGE:  1600
-OBSERVER DURATION (MINUTES):  6
-SENTRY TRUE SIGHT RANGE:  850
-SENTRY DURATION (MINUTES):  4
-
 /items/ogre-axe
 1,000
 + 10 Strength
@@ -431,7 +424,7 @@ SENTRY DURATION (MINUTES):  4
 
 /items/dagon-level-5
 7,715
-+ 15 / 18 / 21 / 24 / 27 Intelligence
++ 27 Intelligence
 + 3 All Attributes
 
 /items/hood-of-defiance
@@ -518,9 +511,6 @@ SENTRY DURATION (MINUTES):  4
 /items/smoke-of-deceit
 80
 
-/items/aegis-of-the-immortal
-No Cost
-
 /items/blade-of-alacrity
 1,000
 + 10 Agility
@@ -590,7 +580,7 @@ No Cost
 
 /items/dagon
 2,715
-+ 15 / 18 / 21 / 24 / 27 Intelligence
++ 15 Intelligence
 + 3 All Attributes
 
 /items/oblivion-staff
@@ -603,9 +593,6 @@ No Cost
 /items/eaglesong
 3,200
 + 25 Agility
-
-/items/cheese
-1,000
 
 /items/infused-raindrops
 225
@@ -627,7 +614,7 @@ No Cost
 
 /items/dagon-level-3
 5,215
-+ 15 / 18 / 21 / 24 / 27 Intelligence
++ 21 Intelligence
 + 3 All Attributes
 
 /items/broadsword
@@ -640,7 +627,7 @@ No Cost
 
 /items/dagon-level-2
 3,965
-+ 15 / 18 / 21 / 24 / 27 Intelligence
++ 18 Intelligence
 + 3 All Attributes
 
 /items/healing-salve
@@ -648,7 +635,7 @@ No Cost
 
 /items/dagon-level-4
 6,465
-+ 15 / 18 / 21 / 24 / 27 Intelligence
++ 24 Intelligence
 + 3 All Attributes
 
 /items/talisman-of-evasion
@@ -698,8 +685,8 @@ No Cost
 
 /items/necronomicon-level-3
 5,000
-+ 10 / 15 / 20 Strength
-+ 1.0 / 1.25 / 1.5 Mana Regeneration
++ 20 Strength
++ 1.5 Mana Regeneration
 
 /items/faerie-fire
 70
@@ -766,16 +753,16 @@ No Cost
 
 /items/necronomicon
 2,400
-+ 10 / 15 / 20 Strength
-+ 1.0 / 1.25 / 1.5 Mana Regeneration
++ 10 Strength
++ 1.0 Mana Regeneration
 
 /items/refresher-shard
 1,000
 
 /items/necronomicon-level-2
 3,700
-+ 10 / 15 / 20 Strength
-+ 1.0 / 1.25 / 1.5 Mana Regeneration
++ 15 Strength
++ 1.25 Mana Regeneration
 
 /items/animal-courier
 200

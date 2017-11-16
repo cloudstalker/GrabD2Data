@@ -6,12 +6,14 @@ using System.Threading.Tasks;
 using System.Data.SQLite;
 using System.Data.SQLite.EF6;
 using System.Data.Entity;
+using System.Dynamic;
 
 namespace DataCompile
 {
     public class DotaMetaData : DbContext
     {
         public DbSet<Hero> Heroes { get; set; }
+        public DbSet<Item> Items { get; set; }
         public DotaMetaData(string connectionString) : base(new SQLiteConnection() {ConnectionString = connectionString }, true)
         {
         }
@@ -39,21 +41,45 @@ namespace DataCompile
                 ",baseatkpt real)";
             SQLiteCommand command = new SQLiteCommand(sql, sQLiteConnection);
             command.ExecuteNonQuery();
-            sql = "create table Items (name text, gold real)";
+            sql = "create table Items (name text, gold real, " +
+                    "MovementSpeed," +
+                    "SelectedAttribute,"+
+                    "AttackSpeed," +
+                    "Damage," +
+                    "AllAttributes," +
+                    "Health," +
+                    "Mana," +
+                    "HPRegeneration," +
+                    "Strength," +
+                    "Armor," +
+                    "Intelligence," +
+                    "Agility," +
+                    "ManaRegeneration," +
+                    "Evasion," +
+                    "MagicResistance," +
+                    "SpellAmplification," +
+                    "ManacostandManalossReduction" +
+                    ")";
             command = new SQLiteCommand(sql, sQLiteConnection);
             command.ExecuteNonQuery();
             // Close database connection
             sQLiteConnection.Close();
+
+            // Read heroes & items
             List<Hero> heroList = TxtParser.ParseHeroes("HeroData.txt");
+            List<Item> itemList = TxtParser.ParseItems("ItemData.txt");
             using (DotaMetaData dotaMetaData = new DotaMetaData(conStr))
             {
                 foreach (var s in heroList)
                 {
                     dotaMetaData.Heroes.Add(s);
                 }
+                foreach (var s in itemList)
+                {
+                    dotaMetaData.Items.Add(s);
+                }
                 dotaMetaData.SaveChanges();
             }
-
         }
     }
 }

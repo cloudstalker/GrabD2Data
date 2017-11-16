@@ -1,6 +1,8 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Dynamic;
+using System.Linq;
 
 namespace DataCompile
 {
@@ -69,6 +71,39 @@ namespace DataCompile
         static public List<Item> ParseItems(string path)
         {
             List<Item> result = new List<Item>();
+            List<string> properties = new List<string>();
+            using(StreamReader sr = new StreamReader(path))
+            {
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    dynamic temp = new Item();
+                    temp.Name = line.Substring(8);
+                    temp.Gold = (float)Convert.ToDouble(sr.ReadLine().Replace(",",string.Empty));
+                    while ((line = sr.ReadLine()) != "")
+                    {
+                        line = line.Substring(2);
+                        int i = 0;
+                        while(line[i]!=' ')
+                        {
+                            i += 1;
+                        }
+                        string value = line.Remove(i);
+                        string propertyName = line.Substring(i).Replace(" ", string.Empty);
+                        properties.Add(propertyName);
+                        temp.TrySetMember( );
+                        result.Add(temp);
+                    }
+                }
+            }
+            properties = properties.Distinct().ToList();
+            using(StreamWriter sw = new StreamWriter("properties.txt"))
+            {
+                foreach(var s in properties)
+                {
+                    sw.WriteLine(s);
+                }
+            }
             return result;
         }
 }
