@@ -78,7 +78,7 @@ namespace DataCompile
                 while ((line = sr.ReadLine()) != null)
                 {
                     dynamic temp = new Item();
-                    temp.Name = line.Substring(8);
+                    temp.Name = line.Substring(7);
                     temp.Gold = (float)Convert.ToDouble(sr.ReadLine().Replace(",",string.Empty));
                     while ((line = sr.ReadLine()) != "")
                     {
