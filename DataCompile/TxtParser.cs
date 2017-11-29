@@ -77,7 +77,7 @@ namespace DataCompile
                 string line;
                 while ((line = sr.ReadLine()) != null)
                 {
-                    dynamic temp = new Item();
+                    Item temp = new Item();
                     temp.Name = line.Substring(7);
                     temp.Gold = (float)Convert.ToDouble(sr.ReadLine().Replace(",",string.Empty));
                     while ((line = sr.ReadLine()) != "")
@@ -92,8 +92,8 @@ namespace DataCompile
                         string propertyName = line.Substring(i).Replace(" ", string.Empty);
                         properties.Add(propertyName);
                         typeof(Item).GetProperty(propertyName).SetValue(temp, value);
-                        result.Add(temp);
                     }
+                    result.Add(temp);
                 }
             }
             properties = properties.Distinct().ToList();
